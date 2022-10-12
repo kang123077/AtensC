@@ -1,5 +1,1 @@
-﻿  main.c
-C:\Users\Atents\source\repos\AtensC\AtensC02\main.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
-C:\Users\Atents\source\repos\AtensC\AtensC02\main.c(32,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Atents\source\repos\AtensC\AtensC02\main.c(13,17): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  AtensC02.vcxproj -> C:\Users\Atents\source\repos\AtensC\x64\Debug\AtensC02.exe
+﻿
