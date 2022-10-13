@@ -26,7 +26,7 @@
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{8471aa9e-fc84-4f13-8633-33bcf209b6cd}</ProjectGuid>
     <RootNamespace>AtensCCheckDot</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
     <ProjectName>AtensCCheckDot</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

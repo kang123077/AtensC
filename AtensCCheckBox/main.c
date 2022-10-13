@@ -1,6 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 // 두 박스가 겹쳤는지 확인하는 로직을 만들어 보세요
 
@@ -20,6 +20,10 @@ int main() {
 	int coor2 = 0;
 	int coor3 = 0;
 	int coor4 = 0;
+	int coor5 = 0;
+	int coor6 = 0;
+	int coor7 = 0;
+	int coor8 = 0;
 	int finalCheck = 0;
 
 	printf("첫번째 박스의 시작 좌표값을 입력하세요 (x, y) : ");
@@ -36,8 +40,12 @@ int main() {
 	coor2 = (((x3 < x2) && (x2 < x4)) && ((y3 < y1) && (y1 < y4)));
 	coor3 = (((x3 < x1) && (x1 < x4)) && ((y3 < y2) && (y2 < y4)));
 	coor4 = (((x3 < x2) && (x2 < x4)) && ((y3 < y2) && (y2 < y4)));
+	coor5 = (((x1 < x3) && (x3 < x2)) && ((y1 < y3) && (y3 < y2)));
+	coor6 = (((x1 < x4) && (x4 < x2)) && ((y1 < y3) && (y3 < y2)));
+	coor7 = (((x1 < x3) && (x3 < x2)) && ((y1 < y4) && (y4 < y2)));
+	coor8 = (((x1 < x4) && (x4 < x2)) && ((y1 < y4) && (y4 < y2)));
 
-	finalCheck = coor1 || coor2 || coor3 || coor4;
+	finalCheck = coor1 || coor2 || coor3 || coor4 || coor5 || coor6 || coor7 || coor8;
 
 	switch (finalCheck)
 	{
