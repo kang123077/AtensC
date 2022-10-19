@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1500
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC02", "AtensC02\AtensC02.vcxproj", "{CB169669-DC0A-4A65-9241-C5BF7740B4D9}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensCPointerTest", "AtensCPointerTest\AtensCPointerTest.vcxproj", "{DAC9B6DA-B7A4-418C-BC4D-5438C121CD14}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC07", "AtensC07\AtensC07.vcxproj", "{4DDBF525-C876-4588-93BD-7ECE173A8D5A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC08", "AtensC08\AtensC08.vcxproj", "{6E4B9645-5E16-46CA-A146-06611980F033}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,14 @@ Global
 		{4DDBF525-C876-4588-93BD-7ECE173A8D5A}.Release|x64.Build.0 = Release|x64
 		{4DDBF525-C876-4588-93BD-7ECE173A8D5A}.Release|x86.ActiveCfg = Release|Win32
 		{4DDBF525-C876-4588-93BD-7ECE173A8D5A}.Release|x86.Build.0 = Release|Win32
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Debug|x64.ActiveCfg = Debug|x64
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Debug|x64.Build.0 = Debug|x64
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Debug|x86.Build.0 = Debug|Win32
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Release|x64.ActiveCfg = Release|x64
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Release|x64.Build.0 = Release|x64
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Release|x86.ActiveCfg = Release|Win32
+		{6E4B9645-5E16-46CA-A146-06611980F033}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
