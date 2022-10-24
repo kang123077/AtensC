@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC09", "AtensC09\AtensC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC10", "AtensC10\AtensC10.vcxproj", "{B08BB4C9-27F5-4344-932E-FE73EC29938E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AtensC11", "AtensC11\AtensC11.vcxproj", "{AFAD1290-4013-435D-BDD2-9B7750F613F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{B08BB4C9-27F5-4344-932E-FE73EC29938E}.Release|x64.Build.0 = Release|x64
 		{B08BB4C9-27F5-4344-932E-FE73EC29938E}.Release|x86.ActiveCfg = Release|Win32
 		{B08BB4C9-27F5-4344-932E-FE73EC29938E}.Release|x86.Build.0 = Release|Win32
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Debug|x64.ActiveCfg = Debug|x64
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Debug|x64.Build.0 = Debug|x64
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Debug|x86.Build.0 = Debug|Win32
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Release|x64.ActiveCfg = Release|x64
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Release|x64.Build.0 = Release|x64
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Release|x86.ActiveCfg = Release|Win32
+		{AFAD1290-4013-435D-BDD2-9B7750F613F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
